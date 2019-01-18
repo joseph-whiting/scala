@@ -1,0 +1,3 @@
+// scalac: -Yrangepos
+//
+(1)
